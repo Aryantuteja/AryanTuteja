@@ -3,14 +3,14 @@
 
 <img src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" alt="Code GIF" width="350" align="right">
 
-### I'm a CS undergrad.
+### I'm a CS Master Student.
 
-- 🔭 I’m currently exploring **Computer Vision**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🔭 I’m currently exploring **Buisness Informations**
+- 🌱 I’m currently learning **How to use AI to build something new.**
 - 👯 Open to collaborate 
 - 💼 Actively Seeking internship opportunities
-- 💬 Ask me about **C++** and **openCV**
-- ⚡ Hobbies: I like making meme and listening to music
+- 💬 Ask me about **Data Mining** and **Machine Learning**
+- ⚡ Hobbies: I like listening to music
 - 📫 Contact me at **tutejaaryan09@gmail.com**
 <br/>
 
